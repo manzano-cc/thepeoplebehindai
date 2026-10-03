@@ -83,7 +83,7 @@ button { font: inherit; }
 .logo {
   display: block;
   width: auto;
-  height: 34px;
+  height: 30px;
 }
 
 .cabecera-der {
@@ -779,7 +779,7 @@ th[aria-sort="descending"] { color: var(--azul-tinta); }
 /* ---------- Móvil ---------- */
 @media (max-width: 767px) {
   .cabecera { height: 56px; padding: 0 16px; }
-  .logo { height: 28px; }
+  .logo { height: 25px; }
   .cabecera-der { gap: 10px; }
   .nav-enlace { height: 32px; padding: 0 14px; }
 
