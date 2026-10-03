@@ -1,0 +1,16 @@
+# Only the home page and the About page may be crawled.
+# Individual profiles (#person/...) and the data (/data/) are excluded.
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /index.html$
+Allow: /about.html$
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+Allow: /favicon.ico$
+Allow: /manifest.webmanifest$
+Allow: /sitemap.xml$
+Disallow: /data/
+
+Sitemap: https://thepeoplebehindai.org/sitemap.xml

@@ -1,0 +1,46 @@
+Logos de organizaciones: marcas registradas de sus respectivos titulares, mostradas solo para identificar a la organización; no implican afiliación ni respaldo.
+
+Origen y licencia de cada archivo:
+- OpenAI: openai.svg; origen: commons (File:OpenAI logo 2025 (symbol).svg); licencia: Public domain
+- Amazon: amazon.svg; origen: commons (File:Amazon icon.svg); licencia: Public domain
+- Microsoft: microsoft.svg; origen: commons (File:Microsoft logo.svg); licencia: Public domain
+- xAI: xai.svg; origen: commons (File:XAI-Logo.svg); licencia: Public domain
+- Hugging Face: hugging-face.svg; origen: commons (File:Hf-logo-without-title.svg); licencia: Public domain
+- Ai2: ai2.svg; origen: commons (File:Allen Institute for Artificial Intelligence.svg); licencia: Public domain
+- Midjourney: midjourney.svg; origen: commons (File:Midjourney Emblem.svg); licencia: Public domain
+- Liquid AI: liquid-ai.svg; origen: commons (File:Liquid-ai-logo-2026.svg); licencia: Public domain
+- EleutherAI: eleutherai.svg; origen: commons (File:EleutherAI logo.svg); licencia: CC0
+- Stanford: stanford.svg; origen: commons (File:Stanford plain block "S" logo.svg); licencia: Public domain
+- Anthropic: anthropic.svg; origen: simple-icons (anthropic); licencia: CC0 (Simple Icons)
+- Google: google.svg; origen: commons (File:Google "G" logo.svg); licencia: Public domain
+- Meta: meta.svg; origen: simple-icons (meta); licencia: CC0 (Simple Icons)
+- Apple: apple.svg; origen: simple-icons (apple); licencia: CC0 (Simple Icons)
+- NVIDIA: nvidia.svg; origen: simple-icons (nvidia); licencia: CC0 (Simple Icons)
+- Mistral AI: mistral-ai.svg; origen: simple-icons (mistralai); licencia: CC0 (Simple Icons)
+- ElevenLabs: elevenlabs.svg; origen: simple-icons (elevenlabs); licencia: CC0 (Simple Icons)
+- DeepL: deepl.svg; origen: simple-icons (deepl); licencia: CC0 (Simple Icons)
+- Suno: suno.svg; origen: simple-icons (suno); licencia: CC0 (Simple Icons)
+- Black Forest Labs: black-forest-labs.svg; origen: sitio oficial (https://bfl.ai/icon0.svg); licencia: sin licencia explícita (favicon de la web oficial)
+- Pika: pika.svg; origen: sitio oficial (https://pika.art/icon.svg); licencia: sin licencia explícita (favicon de la web oficial)
+ y Liquid AI se recortan para mostrar solo su símbolo.
+- Runway: runway.png; origen: sitio oficial (https://runway.com/icon.png); licencia: sin licencia explícita (icono de la web oficial)
+- Luma AI: luma-ai.svg; origen: sitio oficial (https://lumalabs.ai (logo del sitio oficial)); licencia: sin licencia explícita (icono de la web oficial)
+- Ideogram: ideogram.svg; origen: sitio oficial (https://ideogram.ai/favicon.svg); licencia: sin licencia explícita (icono de la web oficial)
+- Synthesia: synthesia.png; origen: sitio oficial (favicon del sitio oficial synthesia.io); licencia: sin licencia explícita (icono de la web oficial)
+- Stability AI: stability-ai.png; origen: sitio oficial (favicon del sitio oficial stability.ai); licencia: sin licencia explícita (icono de la web oficial)
+- Kyutai: kyutai.png; origen: sitio oficial (https://kyutai.org/favicon.ico); licencia: sin licencia explícita (icono de la web oficial)
+- Prime Intellect: prime-intellect.png; origen: sitio oficial (icono del sitio oficial primeintellect.ai); licencia: sin licencia explícita (icono de la web oficial)
+- Humans&: humans.png; origen: sitio oficial (https://humansand.ai/favicon-192.png); licencia: sin licencia explícita (icono de la web oficial)
+- Standard Intelligence: standard-intelligence.svg; origen: sitio oficial (https://si.inc/icon.svg); licencia: sin licencia explícita (icono de la web oficial)
+- ELLIS: ellis.svg; origen: sitio oficial (https://ellis.eu/favicon.svg); licencia: sin licencia explícita (icono de la web oficial)
+- Berkeley: berkeley.svg; origen: sitio oficial (favicon del sitio oficial berkeley.edu); licencia: sin licencia explícita (icono de la web oficial)
+- NYU: nyu.svg; origen: sitio oficial (icono del sitio oficial nyu.edu); licencia: sin licencia explícita (icono de la web oficial)
+- Carnegie Mellon: carnegie-mellon.png; origen: sitio oficial (https://www.cmu.edu/favicon.ico); licencia: sin licencia explícita (icono de la web oficial)
+- Princeton: princeton.png; origen: sitio oficial (https://www.princeton.edu/favicon.ico); licencia: sin licencia explícita (icono de la web oficial)
+- Max Planck Tübingen: max-planck.png; origen: sitio oficial (touch-icon de https://www.mpg.de); licencia: sin licencia explícita (icono de la web oficial)
+
+Nota: los logos de Ai2 y Liquid AI se recortan para mostrar solo su símbolo. Los PNG se reducen a 64x64 px.
+- Thinking Machines Lab: thinking-machines-lab.png; origen: sitio oficial (https://thinkingmachines.ai/images/apple-touch-icon.png); licencia: sin licencia explícita (icono de la web oficial)
+- H Company: h-company.png; origen: sitio oficial (https://hcompany.ai/icon.png); licencia: sin licencia explícita (icono de la web oficial)
+- Oxford: oxford.svg; origen: Wikimedia Commons (File:Coat of arms of the University of Oxford.svg); licencia: dominio público
+- Cambridge: cambridge.svg; origen: Wikimedia Commons (File:Coat of Arms of the University of Cambridge.svg); licencia: CC BY-SA 3.0 (atribución a los autores en la página del archivo en Commons; el escudo es además un símbolo heráldico/marca de la universidad)
