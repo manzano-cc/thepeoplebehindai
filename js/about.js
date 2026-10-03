@@ -28,3 +28,11 @@
       .catch(() => { /* se queda el texto genérico */ });
   }
 })();
+
+(function () {
+  const cab = document.querySelector('.cabecera');
+  if (!cab) return;
+  const act = () => cab.classList.toggle('con-fondo', window.scrollY > 8);
+  window.addEventListener('scroll', act, { passive: true });
+  act();
+})();

@@ -707,3 +707,11 @@ cargar().catch(e => {
   console.error(e);
   document.getElementById('contador').textContent = 'Could not load the data';
 });
+
+(function () {
+  const cab = document.querySelector('.cabecera');
+  if (!cab) return;
+  const act = () => cab.classList.toggle('con-fondo', window.scrollY > 8);
+  window.addEventListener('scroll', act, { passive: true });
+  act();
+})();
