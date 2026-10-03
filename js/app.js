@@ -49,7 +49,7 @@ function revisarDatos(lista) {
 /* ---------- Vista principal ---------- */
 
 const POR_PAGINA = 50;
-const AVATAR = 'assets/avatar.svg';
+const AVATAR = 'assets/avatar.svg?v=2';
 const SIN_AREA = '__sin_area__';
 const MOVIL = window.matchMedia('(max-width: 767px)');
 
